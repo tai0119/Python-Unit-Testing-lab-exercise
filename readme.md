@@ -1,4 +1,10 @@
-coverage report
+git remote -v
+git remote set-url origin 
+
+git push origin main --force
+
+
+# 3. coverage report
 View the Coverage Report
 
 To see a simple report in your terminal:
